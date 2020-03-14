@@ -2,7 +2,7 @@
   "name": "plague-doctor",
   "nice_name": "Plague Doctor",
   "version": "0.1.0",
-  "description": "A simple script adding a Clippy-like character of a Venetian plague doctor to the right bottom of your website. The good doctor will be providing your visitors with a good advice in the difficult time of COVID-19 pandemics.",
+  "description": "A simple script adding a Clippy-like character of a Venetian plague doctor to the right bottom of your website. The good doctor will be providing your visitors with good advice during the difficult time of the COVID-19 pandemic.",
   "keywords": [
     "clippy",
     "COVID-19",
