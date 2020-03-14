@@ -20,7 +20,7 @@
     "email": "vaclav@navratil.vn",
     "url": "https://github.org/aidik/"
   },
-  "homepage": "https://plaguedoctor.tech",
+  "homepage": "https://plaguedoctor.icu",
   "license": "MIT",
   "devDependencies": {
     "grunt": "^1.0.4",
