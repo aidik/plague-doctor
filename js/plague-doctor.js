@@ -41,7 +41,7 @@ quotes.en = [
             ];
 
 var htmlFragment =  "<div id=\"plague-doctor\" style=\"" +
-                        "background-image:url('https://17abbmaz.fbmi.cz/images/Plague_Doctor.png');" +
+                        "background-image:url('https://cdn.jsdelivr.net/gh/aidik/plague-doctor/img/Plague_Doctor.png');" +
                         "background-repeat:no-repeat;" +
                         "background-size:contain;" +
                         "background-position:right bottom;" +
@@ -52,7 +52,7 @@ var htmlFragment =  "<div id=\"plague-doctor\" style=\"" +
                         "width:calc(494vh/25);\">" +
 
                         "<div class=\"plague-doctor-bubble\" style=\"" +
-                            "background-image:url('https://17abbmaz.fbmi.cz/images/bubble.svg');" +
+                            "background-image:url('https://cdn.jsdelivr.net/gh/aidik/plague-doctor/img/bubble.svg');" +
                             "background-position:left center;" +
                             "background-repeat:no-repeat;" +
                             "background-size:100% 100%;" +
