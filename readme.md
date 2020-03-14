@@ -8,5 +8,7 @@ Add it to any website by simply pasting this snippet on the bottom of your page,
 
 
 ```html
-<script async src="js/plague-doctor.js"></script>
+<script async src="https://cdn.jsdelivr.net/gh/aidik/plague-doctor/js/plague-doctor.min.js"></script>
 ```
+
+##
