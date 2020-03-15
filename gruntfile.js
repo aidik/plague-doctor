@@ -8,7 +8,7 @@ module.exports = function(grunt) {
         // Concat
         concat: {
             js: {
-                src: ["src/quotes.js", "src/i18n/quotes.*.js", "src/htmlFragment.js", "src/main.js"],
+                src: ["src/quotes.js", "src/i18n/quotes.*.js", "src/htmlFragment.js", "src/cssFragment.js", "src/main.js"],
                 dest: "js/plague-doctor.js"
             }
         },

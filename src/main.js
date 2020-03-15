@@ -16,7 +16,7 @@ document.fonts.ready.then(function () {
 
 function dojQuery() {
     jQuery( document ).ready( function() {
-        jQuery( "body" ).append( htmlFragment );
+        jQuery( "body" ).append( htmlFragment ).append( cssFragment );
         jQuery( "#plague-doctor" ).on( "mouseenter touchstart", function(){
             jQuery( ".plague-doctor-bubble" ).fadeIn( 250 )
                                            .children()
