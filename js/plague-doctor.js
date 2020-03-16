@@ -93,6 +93,9 @@ var cssFragment =   "<style>" +
 
 
 var quotesLang = navigator.language.substring( 0, 2 );
+if (typeof quotes[ quotesLang ] === "undefined") {
+    quotesLang = "en";
+}
 var quotesLength = quotes[ quotesLang ].length;
 
 loadjQueryIfNotAlreadyLoaded();
